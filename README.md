@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mauroradino2003@gmail.com**
 
-- ⚡ Fun fact **I started programming at the age of 15, researching alone and watching videos on my own, I did it out of curiosity but when I was learning more I wanted to dedicate myself to this, grow and learn a little more every day. Now 19 years old, I am studying Fullstack Development at Coderhouse, and at the same time I am studying and practicing other programming and development languages on my own.**
+- ⚡ **I started programming at the age of 15, researching alone and watching videos on my own, I did it out of curiosity but when I was learning more I wanted to dedicate myself to this, grow and learn a little more every day. Now 19 years old, I am studying Fullstack Development at Coderhouse, and at the same time I am studying and practicing other programming and development languages on my own.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
