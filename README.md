@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauro Radino</h1>
 <h3 align="center">19 Years old. Fullstack Development Student at Coderhouse</h3>
 
-- 🌱 I’m currently learning **Frontend Development Typescript & React.js**
+- 🌱 I’m currently learning **Frontend Development & React.js**
 
 - 👨‍💻 All of my projects are available at [mauroradino.online](mauroradino.online)
 
