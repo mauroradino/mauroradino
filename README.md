@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend Development & React.js**
 
-- 👨‍💻 All of my projects are available at [mauroradino.online](mauroradino.online)
+- 👨‍💻 All of my projects are available at http://mauroradino.online/?i=1
 
 - 📫 How to reach me **mauroradino2003@gmail.com**
 
