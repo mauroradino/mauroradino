@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauro Radino</h1>
-<h3 align="center">19 Years old. Fullstack Development Student at Coderhouse</h3>
+<h3 align="center">20 Years old. Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Frontend Development & React.js**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mauroradino2003@gmail.com**
 
-- ⚡ **I started programming at the age of 15, researching alone and watching videos on my own, I did it out of curiosity but when I was learning more I wanted to dedicate myself to this, grow and learn a little more every day. Now 19 years old, I am studying Fullstack Development at Coderhouse, and at the same time I am studying and practicing other programming and development languages on my own.**
+- ⚡ **I started programming at the age of 15, researching alone and watching videos on my own, I did it out of curiosity but when I was learning more I wanted to dedicate myself to this, grow and learn a little more every day. Now 20 years old, I am studying Fullstack Development at Coderhouse, and at the same time I am studying and practicing other programming and development languages on my own.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
